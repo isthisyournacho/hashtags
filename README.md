@@ -8,3 +8,6 @@ This was an assignment to take in a number of documents and spit out the most po
 
   - Writing to files on the system
   - Working with JSON
+  - Using myopts
+  
+#### Tested in Python 3
